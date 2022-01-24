@@ -1,3 +1,7 @@
+---
+description: this is my first product
+---
+
 # What is MyProduct?
 
 {% hint style="info" %}
@@ -5,6 +9,8 @@
 {% endhint %}
 
 Here are a couple of examples of succinct overviews from products with really great docs:
+
+blockchain application
 
 > Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
 >
